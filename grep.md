@@ -56,3 +56,9 @@ $ls -l | grep "Aug" | sort +4n
 -rw-rw-rw-  1 john  doc     11008 Aug  6 14:10 ch02
 $
 ```
+
+
+git --version
+where git
+git config --global user.name "Gaurav"
+git config --global user.email "gauravsaini88@gmail.com"
