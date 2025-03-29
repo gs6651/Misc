@@ -60,5 +60,5 @@ $
 
 git --version
 where git
-git config --global user.name "Gaurav"
-git config --global user.email "gauravsaini88@gmail.com"
+git config --global user.name "Name"
+git config --global user.email "email.com"
